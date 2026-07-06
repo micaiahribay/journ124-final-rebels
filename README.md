@@ -1,6 +1,6 @@
 # Average Make of a Rebel Leader
 
-### Heres a link to my	[google sheet!](https://docs.google.com/spreadsheets/d/1YGbQfI2XaU03NBBCq2bmLsZSuejqWQg3q6UtoDvWIJo/edit?usp=sharing)
+### Here's a link to my	[google sheet!](https://docs.google.com/spreadsheets/d/1YGbQfI2XaU03NBBCq2bmLsZSuejqWQg3q6UtoDvWIJo/edit?usp=sharing)
 
 Over the past few days, I've been reading *Human Acts* by Han Kang during my BART commute. The novel's portrayal of rebellion and its violence despite good intention has given me a deeper appreciation for the human stories behind this dataset. While this information is not relevant to the project, I wanted to mention the relation between this analysis and my present life just as a fun fact. 
 
@@ -78,4 +78,5 @@ Seeing as there were 239 rebellion leaders who got their bachelor's or less (a w
 ### Source
 
 Acosta, Benjamin, Reyko Huang, and Daniel Silverman. "Introducing ROLE: A Database of Rebel Leader Attributes in Armed Conflict." Journal of Peace Research. Online First.
-Heres a link to their	[website!](https://www.rebelleaders.org/)
+
+A link to their	[website.](https://www.rebelleaders.org/)
