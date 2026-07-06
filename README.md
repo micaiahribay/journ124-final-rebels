@@ -73,7 +73,7 @@ Additional reporting should also clarify how the data were collected and which c
 
 Overall, this project demonstrates how data visualization can help communicate connections between rebel leaders. The ROLE dataset is a credible academic resource created by researchers who specialize in political violence and conflict studies. By combining quantitative evidence with historical context, multiple sources, and careful reporting, journalists can tell a more accurate and ethical story that informs readers without oversimplifying or misrepresenting the realities of armed conflict.
 
-Seeing as there were 239 rebellion leaders who got their bachelors or less (a whopping 56% of the dataset), I’m excited for my rebellion plan to come to fruition twenty years after I graduate, switch my major to religious studies, and move to a nation with prolonged internal conflict. 
+Seeing as there were 239 rebellion leaders who got their bachelor's or less (a whopping 56% of the dataset), I’m excited for my rebellion plan to come to fruition twenty years after I graduate, switch my major to religious studies, and move to a nation with prolonged internal conflict. 
 
 ### Source
 
