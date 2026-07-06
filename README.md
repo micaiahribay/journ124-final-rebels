@@ -32,7 +32,7 @@ Here, I made a pivot table looking at if the leader came from an elite family or
 ![Comparing Education to Family Status](https://docs.google.com/spreadsheets/d/e/2PACX-1vThUpIfhd_-rAOV3hq50J0M4k0uF-Y1Q5rQ9P9EuKSuBjPrftGC8VP0aXK2Uxu6-RT15RBlHOcJFTad/pubchart?oid=1607510344&format=image)
 
 
-### Here is an interactive geographic chart of countries and its distribution of rebel leaders I made with DataWrapper. ![Geographic Distribution of Civil War Rebels]([https://datawrapper.dwcdn.net/j6VxJ/1/](https://www.datawrapper.de/_/j6VxJ/)
+### Here is an interactive geographic chart of countries and its distribution of rebel leaders I made with DataWrapper [Geographic Distribution of Civil War Rebels!](https://www.datawrapper.de/_/j6VxJ/)
 To make this map, I first made a pivot table comparing each of the countries with the number of leaders. Then I removed the “total” rows. Last I added the data to DataWrapper to customize this map. 
 
 ### Top 12 Countries with the Most Rebels
