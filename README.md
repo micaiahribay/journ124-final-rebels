@@ -2,7 +2,7 @@
 
 ### Here's a link to my	[google sheet!](https://docs.google.com/spreadsheets/d/1YGbQfI2XaU03NBBCq2bmLsZSuejqWQg3q6UtoDvWIJo/edit?usp=sharing)
 
-Over the past few days, I've been reading *Human Acts* by Han Kang during my BART commute. The novel's portrayal of rebellion and its violence despite good intention has given me a deeper appreciation for the human stories behind this dataset. While this information is not relevant to the project, I wanted to mention the relation between this analysis and my present life just as a fun fact. 
+Over the past few days, I've been reading *Human Acts* by Han Kang during my BART commute. The novel's portrayal of rebellion and its violence despite good intention; it has given me a deeper appreciation for the human stories behind this dataset. While this information is not relevant to the project, I wanted to mention the relation between this analysis and my present life just as a fun fact. 
 
 ## Where did this information come from?
 
