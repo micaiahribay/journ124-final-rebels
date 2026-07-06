@@ -78,3 +78,4 @@ Seeing as there were 239 rebellion leaders who got their bachelor's or less (a w
 ### Source
 
 Acosta, Benjamin, Reyko Huang, and Daniel Silverman. "Introducing ROLE: A Database of Rebel Leader Attributes in Armed Conflict." Journal of Peace Research. Online First.
+Heres a link to their	[website!](https://www.rebelleaders.org/)
